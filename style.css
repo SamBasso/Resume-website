@@ -501,7 +501,7 @@ button:hover {
   #about-me p {
     font-size: 10px;
     color: black;
-    margin-top: -1cm;
+    margin-top: 5px;
   }
   
   .profile_image {
