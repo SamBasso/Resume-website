@@ -506,7 +506,7 @@ button:hover {
   
   .profile_image {
     width: 100px;
-    height: fit-content;
+    height: 100px;
     vertical-align: middle;
     margin: 5px;
     margin-top: 30px;
