@@ -22,6 +22,7 @@ body {
   padding-top: 2cm;
   padding-bottom: 3cm;
   height: 5mm;
+  margin-bottom: -1cm;
  }
 
 .topmenu {
@@ -403,6 +404,7 @@ button:hover {
     padding-top: 2cm;
     padding-bottom: 3cm;
     height: 5mm;
+    margin-bottom: -1cm;
    }
   
   .topmenu {
